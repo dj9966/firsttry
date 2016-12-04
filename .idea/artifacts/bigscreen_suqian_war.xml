@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="bigscreen_suqian:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="bigscreen.war">
+      <element id="artifact" artifact-name="bigscreen_suqian:war exploded" />
+    </root>
+  </artifact>
+</component>
